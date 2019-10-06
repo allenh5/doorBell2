@@ -1,1 +1,6 @@
 theme: jekyll-theme-hacker
+
+
+<a href = "#" class="button">POst comment(link)</a>
+<input class="button"type="submit" value="Post Comment(input)">
+<button class="button" type="submit">POst comment (button)</button>

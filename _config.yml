@@ -3,4 +3,4 @@ theme: jekyll-theme-hacker
 
 <a href = "#" class="button">Post comment(link)</a>
 <input class="button"type="submit" value="Post Comment(input)">
-<button class="button" type="submit">POst comment (button)</button>
+<button class="button" type="submit">Post comment (button)</button>

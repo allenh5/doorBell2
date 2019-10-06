@@ -2,9 +2,8 @@
 
 <a href="#" class="button">Post comment (link)</a>
 <input class="button" type="submit" value="Post comment (input)">
-<button class="button" type="submit">Post comment (button)</button>
+<button class="button" type="submit"> Let Me In !!!!! </button>
 
-You can use the [editor on GitHub](https://github.com/allenh5/doorBell2/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
